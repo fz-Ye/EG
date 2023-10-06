@@ -1,0 +1,1 @@
+{"name":"EuclideanGeometry","instances":[],"imports":["Init","EuclideanGeometry.Foundation.Index","EuclideanGeometry.Example.Index"],"declarations":[]}
